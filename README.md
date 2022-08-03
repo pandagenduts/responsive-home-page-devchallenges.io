@@ -1,4 +1,4 @@
-# collab-responsive-home-page-devchallenges.io
+# challenge-4-responsive-home-page-devchallenges.io
 
 doing a fun project from Thu Nghiem - devchallenges.io !
 
